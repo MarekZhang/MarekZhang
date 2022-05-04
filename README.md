@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m a software engineer based in Dublin, good at back-end development.
+
+![MarekZhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarekZhang&show_icons=true)
