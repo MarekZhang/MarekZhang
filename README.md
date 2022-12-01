@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 🔭 I’m a software engineer based in Dublin, good at back-end development.
 
-🤔 I’m currently learning software system design, building scalable distributed systems and microservices.
+🤔 I’m currently learning system design, building scalable distributed systems and microservices.
