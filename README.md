@@ -4,6 +4,8 @@
 
 **🔭 I’m a software engineer based in Dublin**
 
+**☁️ I’m an AWS certified Solution Architect**
+
 **🧑🏻‍💻 MSc, Computer Science @ Trinity College Dublin**
 
 </div>
