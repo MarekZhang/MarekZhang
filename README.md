@@ -2,9 +2,7 @@
 
 # Hi there 👋, I'm Mark Zhang
 
-**🔭 I’m a software engineer based in Dublin**
-
-**☁️ I’m an AWS certified Solution Architect**
+**🔭 I’m a software engineer @ Microsoft Ireland**
 
 **🧑🏻‍💻 MSc, Computer Science @ Trinity College Dublin**
 
