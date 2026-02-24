@@ -13,10 +13,6 @@
 - How to reach out to me: **<mark.bowen.zhang@gmail.com>**
 - Know more about my expereince on [Bowen(Mark) Zhang - Linkedin](https://www.linkedin.com/in/bowen-mark-zhang-36997617b/)
 
-## Stats
-
-[<img src="https://github-readme-stats.vercel.app/api?username=MarekZhang&theme=light&hide_border=true&show_icons=true&disable_animations=true&count_private=true" alt="GitHub Stats" width="480" />](https://github.com/anuraghazra/github-readme-stats)  
-
 ### Programming Languages
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />](https://www.typescriptlang.org)
